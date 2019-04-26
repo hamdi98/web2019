@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <script type="text/javascript" src="js.js"></script>
 <!-- Title  -->
-    <title>Sign-Up</title>
+    <title>Récupérer</title>
 <!-- Favicon  -->
     <link rel="icon" href="img/core-img/favicon.ico">
 
